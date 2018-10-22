@@ -7,4 +7,4 @@ sum=0
 		sum+=i	
 	}
 puts sum
-puts "this is change"
+puts "this is haha"
