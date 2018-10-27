@@ -24,7 +24,14 @@ class UniversityStudent < Student
 		p "my english is so pool"
 	end
 end
-
+class PupilStuden < Student
+	def say_hello
+		p "hello xiao jiejie"
+	end
+	def cry
+		p "wuwuwuwuww~"
+	end
+end
 
 
 
